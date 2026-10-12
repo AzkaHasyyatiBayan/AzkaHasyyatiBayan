@@ -141,11 +141,10 @@
 </g>
 </g>
  <text x="450" y="168" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="46" font-weight="700" fill="url(#name)">Azka Hasyyati Bayan</text>
- <text x="450" y="206" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" letter-spacing="2" fill="#FBCFE8" fill-opacity="0.85">INFORMATICS STUDENT  ·  WEB &amp; BACKEND DEVELOPER</text>
+ <text x="450" y="206" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" letter-spacing="2" fill="#FBCFE8" fill-opacity="0.85">INFORMATICS STUDENT  ·  FULL-STACK DEVELOPER</text>
  <g class="fade">
-  <line x1="300" y1="248" x2="600" y2="248" stroke="#F472B6" stroke-opacity="0.35"/>
-  <text x="450" y="283" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="24" font-style="italic" letter-spacing="3" fill="#F9A8D4">Noli timere profundum</text>
-  <text x="450" y="308" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" letter-spacing="2" fill="#FBCFE8" fill-opacity="0.6">jangan takut pada kedalaman</text>
+  <line x1="320" y1="246" x2="580" y2="246" stroke="#F472B6" stroke-opacity="0.35"/>
+  <text x="450" y="284" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="24" font-style="italic" letter-spacing="3" fill="#F9A8D4">Noli timere profundum</text>
  </g>
 </g>
 </svg>
