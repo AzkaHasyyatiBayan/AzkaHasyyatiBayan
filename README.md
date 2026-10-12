@@ -6,11 +6,12 @@
 
 ## <img src="assets/icons/user.svg" width="24" height="24" align="absmiddle" />&nbsp;About Me
 
-Hi, I'm **Azka**, an Informatics student exploring various areas of IT, currently focused on **full-stack web development**. I build end-to-end web applications, working across both frontend and backend, and enjoy continuously learning new technologies and tools along the way.
+Hi, I'm **Azka**, an Informatics student exploring various areas of IT, currently focused on **full-stack web development** with an interest in **security analysis**. I build end-to-end web applications, working across both frontend and backend, while continuously learning new technologies and exploring secure software practices.
 
 ## <img src="assets/icons/compass.svg" width="24" height="24" align="absmiddle" />&nbsp;Interests
 
 - Full-stack web development
+- Security analysis & web application security
 - Frontend & backend integration
 - REST APIs & database management
 - Exploring modern developer tools & frameworks
