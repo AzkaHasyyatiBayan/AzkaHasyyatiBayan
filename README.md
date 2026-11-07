@@ -29,8 +29,8 @@ Hi, I'm **Azka**, an Informatics student exploring various areas of IT, currentl
 ## <img src="assets/icons/chart.svg" width="24" height="24" align="absmiddle" />&nbsp;GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AzkaHasyyatiBayan&show_icons=true&hide_border=false&border_radius=12&border_color=F472B6&bg_color=1E1035&title_color=F472B6&icon_color=F472B6&text_color=FFFFFF" alt="Azka's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzkaHasyyatiBayan&layout=compact&hide_border=false&border_radius=12&border_color=F472B6&bg_color=1E1035&title_color=F472B6&text_color=FFFFFF" alt="Top Languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=AzkaHasyyatiBayan&show_icons=true&hide_border=false&border_radius=12&border_color=F472B6&bg_color=1E1035&title_color=F472B6&icon_color=F472B6&text_color=FFFFFF" alt="Azka's GitHub Stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AzkaHasyyatiBayan&layout=compact&hide_border=false&border_radius=12&border_color=F472B6&bg_color=1E1035&title_color=F472B6&text_color=FFFFFF" alt="Top Languages" />
   <br/><br/>
   <img height="165" src="https://streak-stats.demolab.com?user=AzkaHasyyatiBayan&hide_border=false&border_radius=12&border=F472B6&background=1E1035&ring=F472B6&fire=F472B6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F472B6&sideLabels=FBCFE8&dates=F472B6" alt="GitHub Streak" />
 </div>
